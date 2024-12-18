@@ -1,6 +1,6 @@
 Package: scR
 Title: Estimate Vapnik-Chervonenkis Dimension and Sample Complexity
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: 
     c(person("Perry", "Carter", , "pjc504@nyu.edu", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-4684-6533")),
@@ -18,9 +18,9 @@ LazyData: true
 LazyDataCompression: xz
 License: MIT + file LICENSE
 NeedsCompilation: no
-Packaged: 2024-12-16 10:09:23 UTC; pjc504
+Packaged: 2024-12-18 14:52:58 UTC; pjc18
 Author: Perry Carter [aut, cre] (<https://orcid.org/0000-0002-4684-6533>),
   Dahyun Choi [aut] (<https://orcid.org/0000-0002-2628-1467>)
 Maintainer: Perry Carter <pjc504@nyu.edu>
 Repository: CRAN
-Date/Publication: 2024-12-16 10:40:02 UTC
+Date/Publication: 2024-12-18 16:30:02 UTC
